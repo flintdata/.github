@@ -4,4 +4,4 @@
 
 ## Projects
 
-flint: A *lighter* database
+**[flint](https://github.com/flintdata/flint)**: A *lighter* database
