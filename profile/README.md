@@ -4,4 +4,8 @@
 
 ## Projects
 
-**[flint](https://github.com/flintdata/flint)**: A *lighter* SQL database
+**[flint](https://github.com/flintdata/flint) (In Development)**: A *lighter* SQL database
+
+**[slate](https://github.com/flintdata/slate) (Planned)**: Compression-optimized SQL analytics
+
+**[shale](https://github.com/flintdata/shale) (Planned)**: Streaming pipelines at scale
